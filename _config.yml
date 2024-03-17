@@ -1,5 +1,6 @@
 title: YAFB Masterclass
 remote_theme: just-the-docs/just-the-docs@main
+color_scheme: dark
 
 aux_links:
   "<img src='https://cdn.simpleicons.org/github/white' width=24/>":
